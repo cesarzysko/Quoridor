@@ -1,2 +1,2 @@
-*.shader linguist-vendored
-*.cginc linguist-vendored
+**/TextMesh*Pro/**/*.shader linguist-vendored
+**/TextMesh*Pro/**/*.cginc linguist-vendored
